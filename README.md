@@ -147,11 +147,12 @@ HR-Workforce-Analytics-Dashboard
 
 ### Executive Dashboard
 
-*(Insert Dashboard_Overview.png here)*
+![Executive Dashboard](Images/Dashboard_Overview.png)
+
 
 ### Attrition Analysis
 
-*(Insert Attrition_Deep_Dive.png here)*
+![Attrition](Images/Attrition_Deep_Dive.png)
 
 ---
 
